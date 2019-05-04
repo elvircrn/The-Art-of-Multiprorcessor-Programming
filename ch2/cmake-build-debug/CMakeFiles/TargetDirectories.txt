@@ -1,0 +1,3 @@
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch2/cmake-build-debug/CMakeFiles/ch2.dir

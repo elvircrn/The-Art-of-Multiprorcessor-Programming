@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//examples/common.h
+vector
+-
+chrono
+-
+iostream
+-
+
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/multiprocessing/BDequeue.h
+functional
+-
+vector
+-
+atomic
+-
+optional
+-
+wmmintrin.h
+-
+type_traits
+-
+array
+-
+examples/common.h
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/multiprocessing/examples/common.h
+../util/atomic128.h
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/util/atomic128.h
+
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/multiprocessing/ThreadPool.cpp
+BDequeue.h
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/multiprocessing/BDequeue.h
+examples/common.h
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/multiprocessing/examples/common.h
+iostream
+-
+thread
+-
+random
+-
+
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/util/atomic128.h
+bitutil.h
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/util/bitutil.h
+cassert
+-
+cstdint
+-
+cstdio
+-
+thread
+-
+atomic
+-
+
+/Users/elvir/CLionProjects/The Art of Multiprocessor Programming/ch16/util/bitutil.h
+stdint.h
+-
+
